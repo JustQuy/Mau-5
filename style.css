@@ -61,7 +61,7 @@ body {
 /* Menu */
 #menu {
   width: 100%;
-  background: #f1c40f;
+  background: linear-gradient(to top, #f9e79f, #b9770e);
   padding: 12px 0;
   text-align: center;
 }
